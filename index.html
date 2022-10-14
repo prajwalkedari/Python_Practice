@@ -60,7 +60,7 @@
     var Data;var i=0;var pdfN=0;
     var pdf_path= [" ","01.  Modules, Comments & Pip/Chapter 1 - Practice set.pdf", "02 .Variables & Data Types/Chapter 2 - Practice.pdf", "03. Strings/Chapter 3 Practice Set.pdf" , "04. Lists & Tuples/Chapter 4 - Practice Set.pdf", "05. Dictionary & Sets/Chapter 5 - Practice Set.pdf", "06. Condtional Expressions/Chapter 6 - Practice Set.pdf", "07. Loops in Python/Chapter 7 - Practice Set.pdf", "08. Functions & Recursion/Chapter 8 Practice Set.pdf"]
 
- fetch('http://127.0.0.1:5500/Data.json')
+ fetch('Data.json')
     .then((response) => response.json())
     .then((json) => Data=json);
 
