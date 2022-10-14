@@ -1,0 +1,103 @@
+<!DOCTYPE html5>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+
+    <!-- Python-Script -->
+    <!-- <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+    <script defer src="https://pyscript.net/latest/pyscript.js"></script> -->
+
+
+</head>
+<body>
+    <div class="alert alert-primary text-center" id="ch" role="alert">
+        Chapter Name Here
+      </div>
+      <div class="alert alert-info" role="alert">
+          <button type="button" id="pbtn" class="btn btn-outline-success text-start" onclick="DataChanger('dec')">pre</button>
+          <button type="button" id="nbtn" class="float-end btn btn-outline-success"onclick="DataChanger('inr')">Next</button>
+          <h3 class="float-center text-center" id="fl">File Name Here</h3> 
+    </div>
+    <br><hr>
+    <div class="container text-center">
+        <div class="row">
+          <div class="col text-start">
+            <pre  id="of" class="language-py  prettyprint lang-py ">
+                code Here
+            </pre>
+          </div>
+          <div class="col">
+            OutPut Here (With pyscript)
+            pls contribution
+          </div>
+        </div>
+    </div>  
+    <embed id="pdf1" class="float-center text-center" width="800px" height="1000px" />
+
+
+    <pre><h3>
+    issue :
+    1. HighLight Snytax(python Code)
+    2. Pdf (not get change file)(Only after Change Chapter)#fix
+    3. Py_Script 
+    Pls Contr
+  </h3></pre>
+</body>
+<script>
+    var ch = document.getElementById("ch")
+    var pbtn =document.getElementById("pbtn")
+    var nbtn =document.getElementById("nbtn")
+    var fl =document.getElementById("fl")
+    var outFile=document.getElementById("of")
+    var pdf=document.getElementById("pdf1")
+    var Data;var i=0;var pdfN=0;
+    var pdf_path= [" ","01.  Modules, Comments & Pip/Chapter 1 - Practice set.pdf", "02 .Variables & Data Types/Chapter 2 - Practice.pdf", "03. Strings/Chapter 3 Practice Set.pdf" , "04. Lists & Tuples/Chapter 4 - Practice Set.pdf", "05. Dictionary & Sets/Chapter 5 - Practice Set.pdf", "06. Condtional Expressions/Chapter 6 - Practice Set.pdf", "07. Loops in Python/Chapter 7 - Practice Set.pdf", "08. Functions & Recursion/Chapter 8 Practice Set.pdf"]
+
+ fetch('http://127.0.0.1:5500/Data.json')
+    .then((response) => response.json())
+    .then((json) => Data=json);
+
+
+  function PdfChanger(index){
+   if (Number(index)!=pdfN){
+        console.log("change Pdf",index);
+        pdf.src=pdf_path[index]
+        pdfN++
+     }
+
+  }  
+    
+
+function PutData(index) {
+  ch.innerText=Data[index]["chapter"];
+  fl.innerText=Data[index]["file"];
+  fetch(Data[index]["path"])
+  .then((response) => response.text())
+  .then((txt) => outFile.innerHTML=txt);
+  var aa=Data[index]["sr.no."]
+  PdfChanger(aa);
+  // outFile.innerText=Data[index]["path"]
+  
+  
+} 
+function  DataChanger(work){
+    console.log(work);
+    var a= (Data.lenght)
+    if(work=="inr"){
+       i++;
+    }else if(work=="dec"){
+      i--;
+    }
+     PutData(i);
+}
+
+</script>
+
+</html>

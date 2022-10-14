@@ -1,0 +1,488 @@
+[
+  {
+    "sr.no.": 1,
+    "chapter": "01.  Modules, Comments & Pip",
+    "file": "pr_01_twinkle.py",
+    "about": "",
+    "path": "01.  Modules, Comments & Pip/pr_01_twinkle.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 1,
+    "chapter": "01.  Modules, Comments & Pip",
+    "file": "pr_03_module_usage.py",
+    "about": "",
+    "path": "01.  Modules, Comments & Pip/pr_03_module_usage.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 1,
+    "chapter": "01.  Modules, Comments & Pip",
+    "file": "pr_04_list_directory.py",
+    "about": "",
+    "path": "01.  Modules, Comments & Pip/pr_04_list_directory.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 2,
+    "chapter": "02 .Variables & Data Types",
+    "file": "pr_01_add_2_numbers.py",
+    "about": "",
+    "path": "02 .Variables & Data Types/pr_01_add_2_numbers.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 2,
+    "chapter": "02 .Variables & Data Types",
+    "file": "pr_02_remainder.py",
+    "about": "",
+    "path": "02 .Variables & Data Types/pr_02_remainder.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 2,
+    "chapter": "02 .Variables & Data Types",
+    "file": "pr_03_input_type.py",
+    "about": "",
+    "path": "02 .Variables & Data Types/pr_03_input_type.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 2,
+    "chapter": "02 .Variables & Data Types",
+    "file": "pr_04_greater.py",
+    "about": "",
+    "path": "02 .Variables & Data Types/pr_04_greater.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 2,
+    "chapter": "02 .Variables & Data Types",
+    "file": "pr_05_avg.py",
+    "about": "",
+    "path": "02 .Variables & Data Types/pr_05_avg.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 2,
+    "chapter": "02 .Variables & Data Types",
+    "file": "pr_06_Square.py",
+    "about": "",
+    "path": "02 .Variables & Data Types/pr_06_Square.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 3,
+    "chapter": "03. Strings",
+    "file": "pr_01.py",
+    "about": "",
+    "path": "03. Strings/pr_01.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 3,
+    "chapter": "03. Strings",
+    "file": "pr_02.py",
+    "about": "",
+    "path": "03. Strings/pr_02.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 3,
+    "chapter": "03. Strings",
+    "file": "pr_03.py",
+    "about": "",
+    "path": "03. Strings/pr_03.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 3,
+    "chapter": "03. Strings",
+    "file": "pr_04.py",
+    "about": "",
+    "path": "03. Strings/pr_04.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 3,
+    "chapter": "03. Strings",
+    "file": "pr_05.py",
+    "about": "",
+    "path": "03. Strings/pr_05.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 4,
+    "chapter": "04. Lists & Tuples",
+    "file": "pr_01_store_fruits.py",
+    "about": "",
+    "path": "04. Lists & Tuples/pr_01_store_fruits.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 4,
+    "chapter": "04. Lists & Tuples",
+    "file": "pr_02_marks.py",
+    "about": "",
+    "path": "04. Lists & Tuples/pr_02_marks.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 4,
+    "chapter": "04. Lists & Tuples",
+    "file": "pr_03_turpleChange.py",
+    "about": "",
+    "path": "04. Lists & Tuples/pr_03_turpleChange.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 4,
+    "chapter": "04. Lists & Tuples",
+    "file": "pr_04_sum_a_list.py",
+    "about": "",
+    "path": "04. Lists & Tuples/pr_04_sum_a_list.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 4,
+    "chapter": "04. Lists & Tuples",
+    "file": "pr_05_count.py",
+    "about": "",
+    "path": "04. Lists & Tuples/pr_05_count.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 5,
+    "chapter": "05. Dictionary & Sets",
+    "file": "pr_01.py",
+    "about": "",
+    "path": "05. Dictionary & Sets/pr_01.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 5,
+    "chapter": "05. Dictionary & Sets",
+    "file": "pr_02.py",
+    "about": "",
+    "path": "05. Dictionary & Sets/pr_02.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 5,
+    "chapter": "05. Dictionary & Sets",
+    "file": "pr_03.py",
+    "about": "",
+    "path": "05. Dictionary & Sets/pr_03.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 5,
+    "chapter": "05. Dictionary & Sets",
+    "file": "pr_04.py",
+    "about": "",
+    "path": "05. Dictionary & Sets/pr_04.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 5,
+    "chapter": "05. Dictionary & Sets",
+    "file": "pr_05.py",
+    "about": "",
+    "path": "05. Dictionary & Sets/pr_05.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 5,
+    "chapter": "05. Dictionary & Sets",
+    "file": "pr_06.py",
+    "about": "",
+    "path": "05. Dictionary & Sets/pr_06.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 5,
+    "chapter": "05. Dictionary & Sets",
+    "file": "pr_07.py",
+    "about": "",
+    "path": "05. Dictionary & Sets/pr_07.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 5,
+    "chapter": "05. Dictionary & Sets",
+    "file": "pr_08.py",
+    "about": "",
+    "path": "05. Dictionary & Sets/pr_08.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 5,
+    "chapter": "05. Dictionary & Sets",
+    "file": "pr_09.py",
+    "about": "",
+    "path": "05. Dictionary & Sets/pr_09.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 6,
+    "chapter": "06. Condtional Expressions",
+    "file": "pr_01.py",
+    "about": "",
+    "path": "06. Condtional Expressions/pr_01.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 6,
+    "chapter": "06. Condtional Expressions",
+    "file": "pr_02.py",
+    "about": "",
+    "path": "06. Condtional Expressions/pr_02.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 6,
+    "chapter": "06. Condtional Expressions",
+    "file": "pr_03.py",
+    "about": "",
+    "path": "06. Condtional Expressions/pr_03.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 6,
+    "chapter": "06. Condtional Expressions",
+    "file": "pr_04.py",
+    "about": "",
+    "path": "06. Condtional Expressions/pr_04.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 6,
+    "chapter": "06. Condtional Expressions",
+    "file": "pr_05(1).py",
+    "about": "",
+    "path": "06. Condtional Expressions/pr_05(1).py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 6,
+    "chapter": "06. Condtional Expressions",
+    "file": "pr_05.py",
+    "about": "",
+    "path": "06. Condtional Expressions/pr_05.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 6,
+    "chapter": "06. Condtional Expressions",
+    "file": "pr_06.py",
+    "about": "",
+    "path": "06. Condtional Expressions/pr_06.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 6,
+    "chapter": "06. Condtional Expressions",
+    "file": "pr_07.py",
+    "about": "",
+    "path": "06. Condtional Expressions/pr_07.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 7,
+    "chapter": "07. Loops in Python",
+    "file": "pr_01.py",
+    "about": "",
+    "path": "07. Loops in Python/pr_01.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 7,
+    "chapter": "07. Loops in Python",
+    "file": "pr_02.py",
+    "about": "",
+    "path": "07. Loops in Python/pr_02.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 7,
+    "chapter": "07. Loops in Python",
+    "file": "pr_03.py",
+    "about": "",
+    "path": "07. Loops in Python/pr_03.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 7,
+    "chapter": "07. Loops in Python",
+    "file": "pr_04.py",
+    "about": "",
+    "path": "07. Loops in Python/pr_04.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 7,
+    "chapter": "07. Loops in Python",
+    "file": "pr_05.py",
+    "about": "",
+    "path": "07. Loops in Python/pr_05.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 7,
+    "chapter": "07. Loops in Python",
+    "file": "pr_06.py",
+    "about": "",
+    "path": "07. Loops in Python/pr_06.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 7,
+    "chapter": "07. Loops in Python",
+    "file": "pr_07.py",
+    "about": "",
+    "path": "07. Loops in Python/pr_07.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 7,
+    "chapter": "07. Loops in Python",
+    "file": "pr_08.py",
+    "about": "",
+    "path": "07. Loops in Python/pr_08.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 7,
+    "chapter": "07. Loops in Python",
+    "file": "pr_09.py",
+    "about": "",
+    "path": "07. Loops in Python/pr_09.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 7,
+    "chapter": "07. Loops in Python",
+    "file": "pr_10.py",
+    "about": "",
+    "path": "07. Loops in Python/pr_10.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 8,
+    "chapter": "08. Functions & Recursion",
+    "file": "pr_01.py",
+    "about": "",
+    "path": "08. Functions & Recursion/pr_01.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 8,
+    "chapter": "08. Functions & Recursion",
+    "file": "pr_02.py",
+    "about": "",
+    "path": "08. Functions & Recursion/pr_02.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 8,
+    "chapter": "08. Functions & Recursion",
+    "file": "pr_03.py",
+    "about": "",
+    "path": "08. Functions & Recursion/pr_03.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 8,
+    "chapter": "08. Functions & Recursion",
+    "file": "pr_04.py",
+    "about": "",
+    "path": "08. Functions & Recursion/pr_04.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 8,
+    "chapter": "08. Functions & Recursion",
+    "file": "pr_05.py",
+    "about": "",
+    "path": "08. Functions & Recursion/pr_05.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 8,
+    "chapter": "08. Functions & Recursion",
+    "file": "pr_06.py",
+    "about": "",
+    "path": "08. Functions & Recursion/pr_06.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 8,
+    "chapter": "08. Functions & Recursion",
+    "file": "pr_07.py",
+    "about": "",
+    "path": "08. Functions & Recursion/pr_07.py",
+    "preC": 0,
+    "Next": 0
+  },
+  {
+    "sr.no.": 8,
+    "chapter": "08. Functions & Recursion",
+    "file": "pr_08.py",
+    "about": "",
+    "path": "08. Functions & Recursion/pr_08.py",
+    "preC": 0,
+    "Next": 0
+  }
+]
